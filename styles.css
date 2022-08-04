@@ -1,0 +1,27 @@
+/*
+body {
+    background-image: url('example_img_girl.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+*/
+h1 {
+    color: blue;
+}
+a:link, a:visited {
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    padding: 15px 45px;
+    display: inline-block;
+}
+a:active, a:hover {
+    background-color: red;
+}
+p {
+    border: 2px solid powderblue;
+    color: red;
+    padding: 30px;
+    margin: 50px;
+}
